@@ -100,3 +100,31 @@ ul li a:hover {
 .p3 {
     color: #ffff;
 }
+
+
+/* gallary */
+
+.transform {
+    border: 5px solid #ffff;
+    position: absolute;
+    float: right;
+    font-size: 20px;
+    top: 50%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    transition: 00.6s;
+}
+
+.transform2 {
+    border: 5px solid #ffff;
+    position: absolute;
+    float: right;
+    top: 50%;
+    left: 74%;
+    transform: translate(-50%, -50%);
+    transition: 00.6s;
+}
+
+.Gp {
+    color: deepskyblue;
+}
