@@ -74,3 +74,29 @@ ul li a:hover {
     background-color: #ffff;
     color: #000;
 }
+
+/* about */
+
+.aboutG {
+    font-family: sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 53%;
+    border: 5px solid transparent;
+    transform: translate(-50%, -50%);
+    direction: ltr;
+    transition: 00.6s;
+
+}
+
+.p1 {
+    color: #ffff;
+}
+.p2 {
+    color: #ffff;
+}
+
+.p3 {
+    color: #ffff;
+}
